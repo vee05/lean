@@ -17,4 +17,8 @@
 推送最新修改:		git push origin master	
 克隆：				git clone git@github.com:michaelliao/gitskills.git
 
+<<<<<<< HEAD
 11
+=======
+222
+>>>>>>> dev
